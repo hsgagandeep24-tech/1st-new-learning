@@ -4,4 +4,8 @@ guru
 hengidya
 =======
 helae
+<<<<<<< Updated upstream
 >>>>>>> newfeature
+=======
+lswess
+>>>>>>> Stashed changes
