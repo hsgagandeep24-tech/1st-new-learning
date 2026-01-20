@@ -1,3 +1,7 @@
 heloo
 guru
+<<<<<<< HEAD
 hengidya
+=======
+helae
+>>>>>>> newfeature
